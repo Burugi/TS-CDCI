@@ -1,9 +1,5 @@
 # When to Share Channels: A Three-Axes Framework for Learning Strategy Benchmarking in MTSF
 
-Hyunwoong Lim (Korea University), Junhyeok Kang (LG AI Research), Susik Yoon (Korea University)
-
-Code: https://github.com/Burugi/TS-CDCI
-
 ## Abstract
 
 Multivariate time series forecasting (MTSF) is a fundamental task that requires modeling both temporal dependencies and inter-channel relationships. Deep learning-based models have been widely adopted under two dominant learning strategies: **Channel-Dependent (CD)** approaches, which jointly leverage information from multiple channels, and **Channel-Independent (CI)** approaches, which process each channel separately. Despite their widespread use, limited understanding exists regarding when each strategy is most effective.
